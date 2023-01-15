@@ -1,0 +1,109 @@
+[33mcommit f3c8ac55424a2abd1eeac9f3ba3065f41cd2e967[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Sat Jan 14 03:21:06 2023 -0600
+
+    Revert "Cambiando el nombre del curso de Ansible"
+    
+    This reverts commit 5df52a254cba02d4c7c0c54b5b3d8ca20dbc5eeb.
+
+[33mcommit 5df52a254cba02d4c7c0c54b5b3d8ca20dbc5eeb[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Sat Jan 14 03:18:16 2023 -0600
+
+    Cambiando el nombre del curso de Ansible
+
+[33mcommit 0f35dfd32ceef4a56ac81cdb340bd298fdb89476[m[33m ([m[1;32mmaster[m[33m)[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Fri Jan 13 22:49:11 2023 -0600
+
+    puse una - entre Dev y Ops
+
+[33mcommit 9a2ff7916a17a1cddf197aa1bdfe82e616ec4a09[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Fri Jan 13 22:48:15 2023 -0600
+
+    Actualizando como se solicitó
+
+[33mcommit 7fa848e70c355bc84e40113b6101c12f0f7b2b13[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Wed Jan 11 18:11:20 2023 -0600
+
+    Agregando Curso de Kubernetes
+
+[33mcommit ece80c29243a6cc3dc52fcbf05130e629be42a69[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Fri Jan 13 22:22:13 2023 -0600
+
+    corrigiendo curso de vagrant
+
+[33mcommit 9d4c3b66e9c1d81717f4fb98bf524d89e8a2927b[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Fri Jan 13 20:28:54 2023 -0600
+
+    corrigiendo el nombre del curso de Docker
+
+[33mcommit d7762b29152a6d0bc4a725e1d75efa3010a29d2e[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Fri Jan 13 22:30:41 2023 -0600
+
+    agregué el acento a lista
+
+[33mcommit 66eaa434500749daf7bdf9fae2236843f302325c[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Fri Jan 13 20:41:22 2023 -0600
+
+    Cursos con la letara C mayuscula
+
+[33mcommit cda1a6cf30d70b122b0fb9d84b06974d1d166de5[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Fri Jan 13 19:57:46 2023 -0600
+
+    Cambio de Titulo por L de cursos
+
+[33mcommit 7cc5e302fec688bccb8c5073579fb176795a50b9[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Fri Jan 13 19:55:35 2023 -0600
+
+    modificando titulo
+
+[33mcommit eb0a1345db533f3eb3f35a235c739e47d94dce19[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Fri Jan 13 19:52:44 2023 -0600
+
+    volviendo al origen
+
+[33mcommit 384fb242ca465d0d4d73035c839528c47d7763b8[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Wed Jan 11 17:58:02 2023 -0600
+
+    Cambio de titulo por Lista de cursos de DevOps de Alura
+
+[33mcommit c9cdaae4504ade2ca1527fe1e210c951fdb789b4[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Wed Jan 11 17:54:16 2023 -0600
+
+    Modificando titulo
+
+[33mcommit 68d1a6fd5e5423b141fa0620f2cf6ea2c76302da[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Tue Jan 10 22:49:29 2023 -0600
+
+    Renombrando curso de Integración Contínuo
+
+[33mcommit 34230d1e7854373e45c2bd15b6b528dab3a355f9[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Mon Jan 9 22:14:59 2023 -0600
+
+    Agregando .Gitignore
+
+[33mcommit 0b6dfad20fa3674c50bbf1c6d594d84da47d4482[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Mon Jan 9 21:38:31 2023 -0600
+
+    Alleglado acento en el curso  d eintegración continua
+
+[33mcommit 3b2b5823201894b874f2a831262797cb1c7369ff[m
+Author: unknown <eze007rikrimas@gmail.com>
+Date:   Mon Jan 9 21:32:50 2023 -0600
+
+    Seguir Index
